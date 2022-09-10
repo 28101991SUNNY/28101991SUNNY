@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=28101991sunny&label=Profile%20views&color=0e75b6&style=flat" alt="28101991sunny" /> </p>
 
-- 🌱 I’m currently learning Data Science and Machine Learning **Scaler Academy**
+- 🌱 Learning Data Science and Machine Learning **Scaler Academy**
 
 - 👨‍💻 All of my projects are available at [https://github.com/28101991SUNNY/BusinessCase_Data_Exploration-](https://github.com/28101991SUNNY/BusinessCase_Data_Exploration-)
 
