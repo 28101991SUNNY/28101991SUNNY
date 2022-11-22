@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Sunny Panchal</h1>
-<h3 align="center">A passionate Data Analysts and Learning Data Science</h3>
+<h3 align="center">A passionate Data Analysts and  Data Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=28101991sunny&label=Profile%20views&color=0e75b6&style=flat" alt="28101991sunny" /> </p>
 
