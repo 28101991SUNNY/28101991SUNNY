@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/28101991SUNNY/BusinessCase_Data_Exploration-](https://github.com/28101991SUNNY/BusinessCase_Data_Exploration-)
 
-- 💬 Ask me about **Python , Pandas, NumPy , Matplotlib, Seaborn , skLearn ,MySQL , Power BI , Tableau , Probability , Math , Statistics**
+- 💬 Ask me about **Python , Pandas, NumPy , Matplotlib, Seaborn , Scikit-Learn ,MySQL , Power BI , Tableau , Probability Mathematics , Inferential Statistical, Supervised Machine Learning**
 
 - 📫 How to reach me **sunnypanchalin@gmail.com**
 
