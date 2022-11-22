@@ -16,6 +16,7 @@
 - 📄 Know about my experiences : https://www.linkedin.com/in/sunny-panchal-3b902081/
 
 <h3 align="left">Connect with me:</h3>
+https://www.linkedin.com/in/sunny-panchal-3b902081/
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sunny-panchal-3b902081/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sunny-panchal-3b902081/" height="30" width="40" /></a>
 </p>
