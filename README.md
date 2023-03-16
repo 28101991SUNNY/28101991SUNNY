@@ -7,9 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 🌱 I’m currently learning **MLOps, Neural Networks, Computer Vision**
+
 - 👨‍💻 All of my projects are available at [https://github.com/28101991SUNNY?tab=repositories](https://github.com/28101991SUNNY?tab=repositories)
 
 - 💬 Ask me about **Python , Pandas, NumPy , Matplotlib, Seaborn , Scikit-Learn, TensorFlow ,MySQL , Power BI , Tableau , Probability Mathematics , Inferential Statistical, Supervised and Unsupervised Machine Learning, Artificial Neural Networks**
+
+- 📫 How to reach me **sunnypanchal28@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
