@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sunny R Panchal</h1>
+<h1 align="center">Hi 👋, I'm Sunny </h1>
 <h3 align="center">Data Scientist with a strong Technical background with working experience in Machine learning, Applied statistics, Probability Mathematics, Data Visualization, and Expert Data Querying skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=28101991sunny&label=Profile%20views&color=0e75b6&style=flat" alt="28101991sunny" /> </p>
