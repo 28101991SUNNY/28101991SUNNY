@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SunnyR28/BusinessCase_Data_Exploration-](https://github.com/SunnyR28/BusinessCase_Data_Exploration-)
 
-- 💬 Ask me about **Python , Pandas, NumPy , Matplotlib, Seaborn , Scikit-Learn, TensorFlow ,MySQL , Power BI , Tableau , Probability Mathematics , Inferential Statistical, Supervised and Unsupervised Machine Learning, Artificial Neural Networks, CNN, TensorFlow **
+- 💬 Ask me about **Python , Pandas, NumPy , Matplotlib, Seaborn , Scikit-Learn, TensorFlow ,MySQL , Power BI , Tableau , Probability Mathematics , Inferential Statistical, Supervised and Unsupervised Machine Learning, Artificial Neural Networks, CNN, TensorFlow**
 
 
 <h3 align="left">Languages and Tools:</h3>
