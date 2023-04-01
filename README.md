@@ -2,7 +2,7 @@
 <h3 align="center">Data Scientist with a strong Technical background with experience in Machine learning, Applied statistics, Probability Mathematics, Data Visualization, and Data Querying.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=28101991sunny&label=Profile%20views&color=0e75b6&style=flat" alt="28101991sunny" /> </p>
-
+ 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
