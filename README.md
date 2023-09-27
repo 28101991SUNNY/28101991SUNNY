@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **MLOps, Neural Networks, Computer Vision**
+- 🌱 I’m currently working with creating and Maintaining Machine Learning Models in Biotechnology domain , utilizing **Dataverse/Microsoft Power Platform** to store and maintain data, and **Databricks** to create, **maintain and deploy Data Pipleline and workflows** , **ML pipelines** And learning MLOps, **Neural Networks, Computer Vision***
 
 - 👨‍💻 All of my projects are available at [https://github.com/28101991SUNNY/BusinessCase_Data_Exploration-](https://github.com/SunnyR28/BusinessCase_Data_Exploration-)
 
