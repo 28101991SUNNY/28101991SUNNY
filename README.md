@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working at **Breath Of Health**
+- 🔭 I’m currently working at **Breath Of Health** as Data Scientist. Working in projects dedicated to advancing early detection strategies for colorectal and breast cancer, as well as COVID-19 analysis, by leveraging high-dimentional FTIR data analysis and developing machine learning models. Employed professional tools such as PySpark, Databricks, and Power BI to streamline data processing, model development, and visualization, contributing to actionable insights that closely align with research objectives.
 
 - 🌱 I’m currently learning **Computer Vision and Natural Language Processing**
 
