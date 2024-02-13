@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sunny</h1>
-<h3 align="center">A passionate Data Scientist</h3>
+<h3 align="center">Passionate about deciphering patterns from complex data sets, especially in the realms of Machine Learning and Deep Learning, I thrive on the thrill of uncovering insights that drive innovation and impact, propelling us towards a smarter, more interconnected future.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=28101991sunny&label=Profile%20views&color=0e75b6&style=flat" alt="28101991sunny" /> </p>
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working at **Breath Of Health Ltd**
+- 🔭 I’m currently working at **Breath Of Health**
 
-- 🌱 I’m currently learning **Computer Vision and NLP**
+- 🌱 I’m currently learning **Computer Vision and Natural Language Processing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/28101991SUNNY/BusinessCase_Data_Exploration-](https://github.com/28101991SUNNY/BusinessCase_Data_Exploration-)
 
