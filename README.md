@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **sunnypanchalin@gmail.com**
 
-- 📄 Know about my experiences ["https://www.linkedin.com/in/sunny-panchal-3b902081/"]
+- 📄 Know about my experiences https://www.linkedin.com/in/sunny-panchal-3b902081/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
