@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working at **Breath Of Health** as Data Scientist. Working in projects dedicated to advancing early detection strategies for colorectal and breast cancer, as well as COVID-19 analysis, by leveraging high-dimentional FTIR data analysis and developing machine learning models. Employed professional tools such as PySpark, Databricks, and Power BI to streamline data processing, model development, and visualization, contributing to actionable insights that closely align with research objectives.
 
-- 🌱 I’m currently learning **Computer Vision and Natural Language Processing**
+- 🌱 I’m currently learning advance Deep Learning techniques in **Computer Vision and Natural Language Processing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/28101991SUNNY/BusinessCase_Data_Exploration-](https://github.com/28101991SUNNY/BusinessCase_Data_Exploration-)
 
