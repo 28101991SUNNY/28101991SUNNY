@@ -11,7 +11,6 @@
 
 - 🌱 I’m currently learning advance Deep Learning techniques in **Computer Vision and Natural Language Processing**
 
-- 👨‍💻 All of my projects are available at [https://github.com/28101991SUNNY/BusinessCase_Data_Exploration-](https://github.com/28101991SUNNY/BusinessCase_Data_Exploration-)
 
 - 💬 Ask me about **Python , Pandas, NumPy , Matplotlib, Seaborn , Scikit-Learn, TensorFlow ,MySQL , Power BI , Tableau , Probability Mathematics , Inferential Statistical, Supervised and Unsupervised Machine Learning, Artificial Neural Networks, CNN, TensorFlow**
 
