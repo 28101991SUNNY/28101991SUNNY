@@ -8,15 +8,15 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working at **Breath Of Health** as Data Scientist. Working in projects dedicated to advancing early detection strategies for colorectal and breast cancer, as well as COVID-19 analysis, by leveraging high-dimentional FTIR data analysis and developing machine learning models.
+- Along with my current role , also working as Machine Learning Engineer on AI-based Machine Condition Monitoring System that detects anomalies, predicts potential failures, and provide valuable insights into the health and performance of the machines by analyzing the data collected from sensors, such as vibration sensors, level sensors, and vision sensors.   
 
--  Key Skills :
-    -  Python Libraries, Databases, Frame-works and Version Control: NumPy, Pandas, Scikit-Learn, TensorFlow,Databricks, Anaconda, PySpark, Spark, Jupyter notebook, MongoDB, MySQL, Big-Query, Oracle, A WS s3 bucket, EC2, ECS, AWS, SageMaker, CI/CD, Github, Github Actions, Flask
-    - Probability Mathematics and Applied Statistics: Probability, Distributions, A/B testing, Confidence Interval, Hypothesis Testing, Bayesian Model, t-Test, ANOV A, Chi-Square Test
-    - Machine Learning and Deep Learning: Supervised Learning, Decision Trees, RandomForest, GBDT, XGBoost, SVM, ensemble techniques ,Stacking ,voting, Unsupervised Learning, Time-Series, Forecasting, Clustering, sentiment analysis, segmentation, ANN, CNN, nltk, Word2vec
-    - Data Visualization: Power BI, DAX, Tableau, Python, Matplotlib, Seaborn, Plotly
+-  **Key Skills** :
+    -  **Python Libraries, Databases, Frame-works and Version Control**: NumPy, Pandas, Scikit-Learn, TensorFlow,Databricks, Anaconda, PySpark, Spark, Jupyter notebook, MongoDB, MySQL, Big-Query, Oracle, A WS s3 bucket, EC2, ECS, AWS, SageMaker, CI/CD, Github, Github Actions, Flask
+    -  **Probability Mathematics and Applied Statistics:** Probability, Distributions, A/B testing, Confidence Interval, Hypothesis Testing, Bayesian Model, t-Test, ANOV A, Chi-Square Test
+    -  **Machine Learning and Deep Learning:** Supervised Learning, Decision Trees, RandomForest, GBDT, XGBoost, SVM, ensemble techniques ,Stacking ,voting, Unsupervised Learning, Time-Series, Forecasting, Clustering, sentiment analysis, segmentation, ANN, CNN, nltk, Word2vec
+    -  **Data Visualization:** Power BI, DAX, Tableau, Python, Matplotlib, Seaborn, Plotly
 
 - 🌱 I’m currently learning advance Deep Learning techniques in **Computer Vision and Natural Language Processing**
-
 
 - 💬 Ask me about **Python , Pandas, NumPy , Matplotlib, Seaborn , Scikit-Learn, TensorFlow ,MySQL , Power BI , Tableau , Probability Mathematics , Inferential Statistical, Supervised and Unsupervised Machine Learning, Artificial Neural Networks, CNN, TensorFlow**
 
