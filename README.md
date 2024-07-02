@@ -7,8 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working at **Breath Of Health** as Data Scientist. Working in projects dedicated to advancing early detection strategies for colorectal and breast cancer, as well as COVID-19 analysis, by leveraging high-dimentional FTIR data analysis and developing machine learning models.
-- Along with my current role , also working as Machine Learning Engineer on AI-based Machine Condition Monitoring System that detects anomalies, predicts potential failures, and provide valuable insights into the health and performance of the machines by analyzing the data collected from sensors, such as vibration sensors, level sensors, and vision sensors.   
+   
 
 -  **Key Skills** :
     -  **Python Libraries, Databases, Frame-works and Version Control**: NumPy, Pandas, Scikit-Learn, TensorFlow,Databricks, Anaconda, PySpark, Spark, Jupyter notebook, MongoDB, MySQL, Big-Query, Oracle, A WS s3 bucket, EC2, ECS, AWS, SageMaker, CI/CD, Github, Github Actions, Flask
