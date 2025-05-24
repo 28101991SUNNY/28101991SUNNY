@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&weight=900&size=27&pause=1200&color=08FDD8&center=true&vCenter=true&width=900&lines=Sunny+Panchal+%E2%80%94+GenAI+%7C+MLE+%7C+Agentic+AI;Automating+Data%2C+Documents%2C+and+Decisions.;Building+LLM-powered+solutions+that+scale.;%E2%9A%A1%EF%B8%8F+Move+fast.+Automate+smarter."
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&pause=900&color=60FFB7&background=22272E00&center=true&vCenter=true&width=950&lines=Sunny+Panchal+%7C+Enterprise+AI+Engineer;GenAI%2C+RAG%2C+Agentic+Workflows%2C+MLE;Turning+unstructured+data+into+enterprise+knowledge.;From+PoC+to+Production+with+LLMs+%7C+MLOps+%7C+Cloud.;Always+learning+%7C+Always+shipping."
   alt="Typing SVG"/>
 </p>
+
 
 
 ---
