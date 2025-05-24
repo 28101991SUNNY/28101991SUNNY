@@ -71,12 +71,12 @@
 </p>
 
 ---
-
-<!-- Stats -->
+<!-- Uncomment for light mode:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=28101991sunny&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=28101991sunny&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=28101991sunny&show_icons=true&theme=default"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=28101991sunny&theme=default"/>
 </p>
+-->
 
 ---
 
