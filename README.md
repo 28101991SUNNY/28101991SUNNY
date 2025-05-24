@@ -1,11 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&pause=900&color=60FFB7&background=22272E00&center=true&vCenter=true&width=950&lines=Sunny+Panchal+%7C+Enterprise+AI+Engineer;GenAI%2C+RAG%2C+Agentic+Workflows%2C+MLE;Turning+unstructured+data+into+enterprise+knowledge.;From+PoC+to+Production+with+LLMs+%7C+MLOps+%7C+Cloud.;Always+learning+%7C+Always+shipping."
-  alt="Typing SVG"/>
-</p>
-
-
-
----
 
 <h1 align="center">Hi 👋, I'm Sunny</h1>
 <h3 align="center">
