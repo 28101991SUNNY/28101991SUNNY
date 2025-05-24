@@ -1,7 +1,8 @@
-<!-- Banner (animated) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Sunny+Panchal+%7C+GenAI+Engineer+%2F+MLE+%2F+RAG+Automator;Ship.+Automate.+Scale.+Repeat.;Transforming+data+chaos+into+enterprise+intelligence." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&weight=900&size=27&pause=1200&color=08FDD8&center=true&vCenter=true&width=900&lines=Sunny+Panchal+%E2%80%94+GenAI+%7C+MLE+%7C+Agentic+AI;Automating+Data%2C+Documents%2C+and+Decisions.;Building+LLM-powered+solutions+that+scale.;%E2%9A%A1%EF%B8%8F+Move+fast.+Automate+smarter."
+  alt="Typing SVG"/>
 </p>
+
 
 ---
 
@@ -93,7 +94,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/sunny-panchal-3b902081" target="blank">
+  <a href="https://www.linkedin.com/in/sunny-r-panchal/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sunny-panchal-3b902081" height="30" width="40" />
   </a>
 </p>
