@@ -45,28 +45,6 @@
 
 ---
 
-<!-- Animated scrolling "Currently working with" logos -->
-<p align="center">
-  <b>Currently working with:</b>
-</p>
-<p align="center">
-  <marquee width="90%" direction="left" scrollamount="6">
-    <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Ollama-212121?style=for-the-badge&logoColor=white"/>
-    <img src="https://img.shields.io/badge/LangChain-025F43?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/Llama-4267B2?style=for-the-badge&logo=meta&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-    <img src="https://img.shields.io/badge/WatsonX-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
-    <img src="https://img.shields.io/badge/RAG-161B22?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  </marquee>
-</p>
-
----
 
 <!-- Summary & About -->
 - **Key Strengths**:
