@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Sunny</h1>
 <h3 align="center">
   AI Engineer | Data Scientist | Building GenAI & Agentic Workflows at Scale<br>
@@ -7,6 +6,27 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=28101991sunny&label=Profile%20views&color=36bcf7&style=flat" alt="28101991sunny" />
+</p>
+
+---
+
+<!-- Career Logos -->
+<p align="center">
+  <a href="https://benevity.com" target="_blank">
+    <img src="https://companieslogo.com/img/orig/BNVT.CN_BIG-464f1434.png?t=1727500000" alt="Benevity" height="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.honda.ca/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Honda-logo.svg" alt="Honda" height="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.ltimindtree.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/LTIMindtree_Logo.svg" alt="LTIMindtree" height="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://bohpharma.com/" target="_blank">
+    <img src="https://bohpharma.com/wp-content/uploads/2023/11/BOH-logo.png" alt="Breath of Health" height="50"/>
+  </a>
 </p>
 
 ---
@@ -45,23 +65,19 @@
 
 ---
 
-
-<!-- Summary & About -->
-- **Key Strengths**:
-    - **GenAI & LLMs:** Ollama, OpenAI, Azure OpenAI, WatsonX, LangChain, LangGraph, Llama, Gemma, RAG, LLMOps
-    - **ML Engineering:** Python, scikit-learn, XGBoost, TensorFlow, PySpark, Databricks, advanced feature engineering, model explainability
-    - **DevOps & MLOps:** GitHub Actions, Jenkins, Docker, CI/CD, IBM Watson Studio, OpenScale, monitoring, audit pipelines
-    - **Data Engineering:** Pandas, NumPy, Spark, MongoDB, MySQL, BigQuery, Power BI, data pipeline automation
-    - **Visualization:** Power BI, Tableau, DAX, Python (Matplotlib, Seaborn, Plotly)
-    - **Core Math/Stats:** Probability, Bayesian, Hypothesis Testing, A/B, t-Test, ANOVA, Chi-Square, clustering, segmentation
+### 🔑 Key Strengths
+- **GenAI & LLMs:** Ollama, OpenAI, Azure OpenAI, WatsonX, LangChain, LangGraph, Llama, Gemma, RAG, LLMOps  
+- **ML Engineering:** Python, scikit-learn, XGBoost, TensorFlow, PySpark, Databricks, advanced feature engineering, model explainability  
+- **DevOps & MLOps:** GitHub Actions, Jenkins, Docker, CI/CD, IBM Watson Studio, OpenScale, monitoring, audit pipelines  
+- **Data Engineering:** Pandas, NumPy, Spark, MongoDB, MySQL, BigQuery, Power BI, data pipeline automation  
+- **Visualization:** Power BI, Tableau, DAX, Python (Matplotlib, Seaborn, Plotly)  
+- **Core Math/Stats:** Probability, Bayesian, Hypothesis Testing, A/B, t-Test, ANOVA, Chi-Square, clustering, segmentation  
 
 ---
 
-- 🌱 **Currently learning:** Deep dives into advanced GenAI architectures, retrieval-augmented generation (RAG), and agentic LLM workflows.
-
-- 💬 **Ask me about:** Real-world LLM deployment, GenAI for document automation, scalable ML pipelines, explainable AI, advanced MLOps, or simply Python/data science best practices.
-
-- 📫 **Contact:** sunnypanchalin@gmail.com
+- 🌱 **Currently learning:** Deep dives into advanced GenAI architectures, retrieval-augmented generation (RAG), and agentic LLM workflows.  
+- 💬 **Ask me about:** Real-world LLM deployment, GenAI for document automation, scalable ML pipelines, explainable AI, advanced MLOps, or simply Python/data science best practices.  
+- 📫 **Contact:** sunnypanchalin@gmail.com  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -69,15 +85,6 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sunny-panchal-3b902081" height="30" width="40" />
   </a>
 </p>
-
----
-<!-- Uncomment for light mode:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=28101991sunny&show_icons=true&theme=default"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=28101991sunny&theme=default"/>
-</p>
--->
-
 
 ---
 
