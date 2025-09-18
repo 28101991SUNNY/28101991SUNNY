@@ -9,22 +9,22 @@
 </p>
 
 ---
-<!-- Career Logos -->
+<!-- Career Badges -->
 <p align="center">
   <a href="https://benevity.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Benevity_logo.svg/2560px-Benevity_logo.svg.png" alt="Benevity" height="50"/>
+    <img src="https://img.shields.io/badge/Benevity-000000?style=for-the-badge&logo=undertale&logoColor=white" alt="Benevity"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.honda.ca/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Honda-logo.svg" alt="Honda" height="50"/>
+    <img src="https://img.shields.io/badge/Honda-E40521?style=for-the-badge&logo=honda&logoColor=white" alt="Honda"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.ltimindtree.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/LTIMindtree_Logo.svg" alt="LTIMindtree" height="50"/>
+    <img src="https://img.shields.io/badge/LTIMindtree-5B2C6F?style=for-the-badge&logo=accenture&logoColor=white" alt="LTIMindtree"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://bohpharma.com/" target="_blank">
-    <img src="https://bohpharma.com/wp-content/uploads/2023/11/BOH-logo.png" alt="Breath of Health" height="50"/>
+    <img src="https://img.shields.io/badge/Breath_of_Health-0078D4?style=for-the-badge&logo=google-health&logoColor=white" alt="Breath of Health"/>
   </a>
 </p>
 
