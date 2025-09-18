@@ -5,14 +5,25 @@
 </h3>
 
 ---
-
 <!-- Career Logos -->
 <p align="center">
-  <a href="https://benevity.com"><img src="https://img.shields.io/badge/Benevity-00AEEF?style=for-the-badge&logoColor=white" alt="Benevity"/></a>
-  <a href="https://www.honda.ca/"><img src="https://img.shields.io/badge/Honda-E40521?style=for-the-badge&logo=honda&logoColor=white" alt="Honda"/></a>
-  <a href="https://www.ltimindtree.com/"><img src="https://img.shields.io/badge/LTIMindtree-5B2C6F?style=for-the-badge&logo=accenture&logoColor=white" alt="LTIMindtree"/></a>
-  <a href="https://bohpharma.com/"><img src="https://img.shields.io/badge/Breath_of_Health-0078D4?style=for-the-badge&logo=google-health&logoColor=white" alt="Breath of Health"/></a>
+  <a href="https://benevity.com" target="_blank">
+    <img src="./benevity_logo.png" alt="Benevity" height="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.honda.ca/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Honda-logo.svg" alt="Honda" height="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.ltimindtree.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/LTIMindtree_Logo.svg" alt="LTIMindtree" height="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://bohpharma.com/" target="_blank">
+    <img src="https://bohpharma.com/wp-content/uploads/2023/11/BOH-logo.png" alt="Breath of Health" height="50"/>
+  </a>
 </p>
+
 
 ---
 
