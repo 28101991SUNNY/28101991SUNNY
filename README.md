@@ -9,11 +9,10 @@
 </p>
 
 ---
-
 <!-- Career Logos -->
 <p align="center">
   <a href="https://benevity.com" target="_blank">
-    <img src="https://companieslogo.com/img/orig/BNVT.CN_BIG-464f1434.png?t=1727500000" alt="Benevity" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Benevity_logo.svg/2560px-Benevity_logo.svg.png" alt="Benevity" height="50"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.honda.ca/" target="_blank">
