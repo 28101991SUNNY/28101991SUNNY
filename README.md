@@ -1,87 +1,64 @@
-<h1 align="center">Hi 👋, I'm Sunny</h1>
+<h1 align="center">Hi 👋, I'm Sunny Panchal</h1>
 <h3 align="center">
-  AI Engineer | Data Scientist | Building GenAI & Agentic Workflows at Scale<br>
-  <em>From raw data chaos to enterprise automation, I architect, ship, and scale real-world AI solutions.</em>
+  AI Systems Engineer @ Benevity | GenAI & ML Engineer | Data Scientist <br>
+  <em>Automating today so we can innovate tomorrow.</em>
 </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=28101991sunny&label=Profile%20views&color=36bcf7&style=flat" alt="28101991sunny" />
-</p>
-
 ---
-<!-- Career Badges -->
+
+<!-- Career Logos -->
 <p align="center">
-  <a href="https://benevity.com" target="_blank">
-    <img src="https://img.shields.io/badge/Benevity-000000?style=for-the-badge&logo=undertale&logoColor=white" alt="Benevity"/>
-  </a>
-  &nbsp;
-  <a href="https://www.honda.ca/" target="_blank">
-    <img src="https://img.shields.io/badge/Honda-E40521?style=for-the-badge&logo=honda&logoColor=white" alt="Honda"/>
-  </a>
-  &nbsp;
-  <a href="https://www.ltimindtree.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LTIMindtree-5B2C6F?style=for-the-badge&logo=accenture&logoColor=white" alt="LTIMindtree"/>
-  </a>
-  &nbsp;
-  <a href="https://bohpharma.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Breath_of_Health-0078D4?style=for-the-badge&logo=google-health&logoColor=white" alt="Breath of Health"/>
-  </a>
+  <a href="https://benevity.com"><img src="https://img.shields.io/badge/Benevity-00AEEF?style=for-the-badge&logoColor=white" alt="Benevity"/></a>
+  <a href="https://www.honda.ca/"><img src="https://img.shields.io/badge/Honda-E40521?style=for-the-badge&logo=honda&logoColor=white" alt="Honda"/></a>
+  <a href="https://www.ltimindtree.com/"><img src="https://img.shields.io/badge/LTIMindtree-5B2C6F?style=for-the-badge&logo=accenture&logoColor=white" alt="LTIMindtree"/></a>
+  <a href="https://bohpharma.com/"><img src="https://img.shields.io/badge/Breath_of_Health-0078D4?style=for-the-badge&logo=google-health&logoColor=white" alt="Breath of Health"/></a>
 </p>
 
 ---
 
-<!-- Dynamic Badges -->
+## 🚀 About Me
+I’m an **AI Systems Engineer** with a background in **Generative AI, Machine Learning, and Data Science**, building **enterprise-grade AI solutions** that scale.  
+I specialize in **Agentic AI workflows, RAG systems, and ML pipelines** — bridging raw data chaos into business-ready automation.  
+
+- 🎯 **Current:** Building **Agentic GenAI systems** at **Benevity** to power CSR, ESG, and employee engagement.  
+- 🏎 **Past @ Honda:** Deployed ML models for **Warranty Claim Classification**, **PDCA AI Summaries**, and **MDM Customer Matching**.  
+- 🌍 **Experience:** From **healthcare AI** at BOH Pharma to **enterprise AI systems** at LTIMindtree & Honda.  
+
+---
+
+## 🛠️ Tech Stack
+
+**GenAI & LLMs:**  
+LangChain • LangGraph • Ollama • Azure OpenAI • Watsonx.ai • Llama • Gemma • RAG • LLMOps  
+
+**ML Engineering:**  
+Python • scikit-learn • XGBoost • TensorFlow • PyTorch • Spark • Databricks  
+
+**MLOps & DevOps:**  
+GitHub Actions • Jenkins • Docker • CI/CD • Watson Studio • OpenScale  
+
+**Data & Analytics:**  
+BigQuery • MongoDB • MySQL • Pandas • Power BI • Tableau  
+
+---
+
+## 🌟 Highlight Projects
+- **Agentic PDCA Assistant** → Conversational RAG app summarizing 200+ project decks weekly for executives.  
+- **Warranty Claim Classification** → Hybrid ML + GenAI model reducing QE workload by **10–20 hours/day**.  
+- **DevOps Release Notes Agent** → Multi-agent LLM workflow generating **audience-specific release notes**.  
+- **MDM Customer Matching** → Classification model with **99% precision**, saving 25% manual work.  
+- **Healthcare AI (BOH Pharma)** → Built ML models for early cancer detection with 92% precision.  
+
+---
+
+## 📫 Connect
 <p align="center">
-  <!-- LLM & GenAI -->
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ollama-212121?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-025F43?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WatsonX-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Llama-4267B2?style=for-the-badge&logo=meta&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG-161B22?style=for-the-badge"/>
-  <!-- ML/DS Stack -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <!-- DevOps/Cloud -->
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-  <!-- Data/BI -->
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white"/>
-</p>
-
----
-
-### 🔑 Key Strengths
-- **GenAI & LLMs:** Ollama, OpenAI, Azure OpenAI, WatsonX, LangChain, LangGraph, Llama, Gemma, RAG, LLMOps  
-- **ML Engineering:** Python, scikit-learn, XGBoost, TensorFlow, PySpark, Databricks, advanced feature engineering, model explainability  
-- **DevOps & MLOps:** GitHub Actions, Jenkins, Docker, CI/CD, IBM Watson Studio, OpenScale, monitoring, audit pipelines  
-- **Data Engineering:** Pandas, NumPy, Spark, MongoDB, MySQL, BigQuery, Power BI, data pipeline automation  
-- **Visualization:** Power BI, Tableau, DAX, Python (Matplotlib, Seaborn, Plotly)  
-- **Core Math/Stats:** Probability, Bayesian, Hypothesis Testing, A/B, t-Test, ANOVA, Chi-Square, clustering, segmentation  
-
----
-
-- 🌱 **Currently learning:** Deep dives into advanced GenAI architectures, retrieval-augmented generation (RAG), and agentic LLM workflows.  
-- 💬 **Ask me about:** Real-world LLM deployment, GenAI for document automation, scalable ML pipelines, explainable AI, advanced MLOps, or simply Python/data science best practices.  
-- 📫 **Contact:** sunnypanchalin@gmail.com  
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/sunny-r-panchal/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sunny-panchal-3b902081" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/sunny-r-panchal/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:sunnypanchalin@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
@@ -89,5 +66,5 @@
 
 <p align="center">
   <i>Always building. Always learning. Always keeping it real.<br>
-  Drop me a note if you want to chat GenAI, MLE, or real-world AI engineering!</i>
+  Let’s talk about GenAI, Agentic AI, or real-world AI engineering.</i>
 </p>
