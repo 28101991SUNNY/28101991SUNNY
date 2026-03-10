@@ -19,7 +19,6 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.ltimindtree.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/LTIMindtree_Logo.svg" alt="LTIMindtree" height="42"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://bohpharma.com/"><img src="https://bohpharma.com/wp-content/uploads/2023/11/BOH-logo.png" alt="BOH Pharma" height="55"/></a>
 </p>
 
 ---
